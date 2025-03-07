@@ -1,0 +1,16 @@
+﻿################################################################################
+# 此 .gitignore 文件已由 Microsoft(R) Visual Studio 自动创建。
+################################################################################
+
+*.wsuo
+*.json
+*.vsidx
+*.vcxproj
+*.filters
+*.user
+*.sln
+*.db
+/mysocket/.vs/mysocket/v17/Browse.VC.db-wal
+/mysocket/.vs/mysocket/v17/Browse.VC.db-shm
+/mysocket/.vs/mysocket/v17/Browse.VC.opendb
+/mysocket/.vs/mysocket/v17/ipch/AutoPCH/9fe5d3f819b36de3/MYSOCKET.ipch
